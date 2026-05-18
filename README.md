@@ -1,7 +1,7 @@
 
-  # Perfume Marketplace Website UI
+  # PerfumeScent Webiste 
 
-  This is a code bundle for Perfume Marketplace Website UI. The original project is available at https://www.figma.com/design/wd3dq8HKLnQ7EplCoElxql/Perfume-Marketplace-Website-UI.
+  This is a code bundle for the Perfume Marketplace Website UI. The original project is available at https://www.figma.com/design/wd3dq8HKLnQ7EplCoElxql/Perfume-Marketplace-Website-UI.
 
   ## Running the code
 
